@@ -2,8 +2,8 @@
 title: "Git基本操作（适合新手）"
 date: 2019-08-19T13:59:30+08:00
 categories:
-- category
-- subcategory
+- git
+- github
 tags:
 - git
 - github

@@ -53,29 +53,11 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 [[menu.main]]
-  weight = 2
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
-[[menu.main]]
   weight = 3
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
-[[menu.main]]
-  weight = 5
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
 
 [[menu.links]]
   weight = 1
@@ -85,10 +67,10 @@ canonifyurls = true
   url = "https://github.com/GeFei-someone"
 [[menu.links]]
   weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  identifier = "archives"
+  name = "Archives"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+  url = "/archives"
 
 
 
