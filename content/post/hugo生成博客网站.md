@@ -105,6 +105,12 @@ config.toml配置文件介绍
 
 ![](/images/blok2/16.png)
 
+> 插入图片
+
+在根目录` static `目录里放图片
+
+![](/images/blok2/36.png)
+
 ## 三、更换主题
 
 进这个网站里
