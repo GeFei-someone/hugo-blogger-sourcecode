@@ -1,9 +1,20 @@
 ---
 title: "Hugo生成博客网站"
 date: 2019-08-19T22:03:20+08:00
-draft: false
+categories:
+- git
+- Hugo
+- gitHub
+tags:
+- git
+- Hugo
+- github
+keywords:
+- tech
 ---
 
+hugo从0到1生成博客教程
+<!--more-->
 > 前言
 
 最近学习了hugo生成博客，把我遇到的一些坑、和遇到点小问题记录一下，如果你是刚刚了解到hugo，那么看我这个网站怎么样？这就是hugo生成的。
@@ -186,3 +197,5 @@ config.toml配置文件介绍
 > 结尾
 
 hugo是需要git的，如果你还不会git可以看我另一篇文章，希望对你有帮助。如果是上传博客源代码注意主题是不会上传的。有问题可以联系我，微信：836456907
+
+hugo的写文章语言是 Markdown 语法

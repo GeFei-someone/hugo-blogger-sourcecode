@@ -9,9 +9,9 @@ tags:
 - github
 keywords:
 - tech
-#thumbnailImage: //example.com/image.jpg
+  
 ---
-
+git新手教程
 <!--more-->
 本人也是刚刚开始学习 大家可以一起交流，大佬可以在教一下 
 
