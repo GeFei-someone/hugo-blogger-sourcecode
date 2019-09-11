@@ -2,11 +2,11 @@
 title: "浅析URL"
 date: 2019-09-04T17:28:30+08:00
 categories:
-- category
-- subcategory
+- HTTP
+- url
 tags:
-- tag1
-- tag2
+- url
+- HTTP
 keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
