@@ -2,14 +2,15 @@
 title: "Js基本语法"
 date: 2019-09-19T17:04:57+08:00
 categories:
-- js
+- javascript
 tags:
-- js
+- javascript
 keywords:
-- tech
+- javascript
 #thumbnailImage: //example.com/image.jpg
 ---
 介绍js的基本语法
+
 <!--more-->
 
 目录
